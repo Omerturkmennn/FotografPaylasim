@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181838229490",
+    "project_id": "fotografpaylasim-c3ad1",
+    "storage_bucket": "fotografpaylasim-c3ad1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181838229490:android:69e3968f2494726bc4456b",
+        "android_client_info": {
+          "package_name": "com.example.fotografpaylasma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCprEZqLT3Djc4pWsuw9L8Lb5KXsNF6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
