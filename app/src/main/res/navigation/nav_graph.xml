@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/kayitFragment"
-        android:name="com.example.fotografpaylasma.KayitFragment"
+        android:name="com.example.fotografpaylasma.view.KayitFragment"
         android:label="fragment_kayit"
         tools:layout="@layout/fragment_kayit" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/feedFragment"
-        android:name="com.example.fotografpaylasma.FeedFragment"
+        android:name="com.example.fotografpaylasma.view.FeedFragment"
         android:label="fragment_feed"
         tools:layout="@layout/fragment_feed" >
         <action
@@ -31,7 +31,7 @@
     </fragment>
     <fragment
         android:id="@+id/yuklemeFragment"
-        android:name="com.example.fotografpaylasma.YuklemeFragment"
+        android:name="com.example.fotografpaylasma.view.YuklemeFragment"
         android:label="fragment_yukleme"
         tools:layout="@layout/fragment_yukleme" >
         <action
